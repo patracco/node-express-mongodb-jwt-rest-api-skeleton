@@ -1,7 +1,7 @@
 # Node.js express.js MongoDB JWT REST API - Basic Project Skeleton
 
 used this template:
-https://github.com/patracco/node-express-mongodb-jwt-rest-api-skeleton###postman-api-example-collection
+https://github.com/patracco/node-express-mongodb-jwt-rest-api-skeleton
 
 ## Getting started
 
